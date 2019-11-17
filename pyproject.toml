@@ -1,0 +1,9 @@
+[tool]
+[tool.poetry]
+authors = ["Your Name <you@example.com>"]
+name = "root"
+version = "0.0.0"
+[tool.poetry.dependencies]
+num2words = "==0.5.10"
+python = "^3.7"
+transliterate = "==1.10.2"
